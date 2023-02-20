@@ -1,12 +1,16 @@
-body {
-    background-image:url("/PlayGround/IMG/honeycomb.png");
-  }
-
-head{
-  background-image: "IMG\square.png";
+header {
+  background-color: blue;
 }
-  
-  h1 {
-    color: navy;
-    margin-left: 20px;
-  }
+
+body {
+  background-color: whitesmoke;
+}
+
+footer {
+  background-color: red;
+}
+
+h1 {
+  color: navy;
+  margin-left: 20px;
+}
