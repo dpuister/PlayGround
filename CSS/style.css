@@ -31,8 +31,7 @@ h1 {
 
 img{
 
-  display: none;
-
+  display: block;
   align-content: center;
   height: 300px;
   box-shadow: 10px;
