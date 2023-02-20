@@ -1,6 +1,10 @@
 body {
-    background-color: lightblue;
+    background-image:"IMG\honeycomb.png";
   }
+
+head{
+  background-image: "IMG\square.png";
+}
   
   h1 {
     color: navy;
