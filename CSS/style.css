@@ -5,6 +5,8 @@ header {
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   text-align: center;
   text-decoration-color: red;
+  text-size-adjust: 25;
+
 }
 
 body {
@@ -17,7 +19,6 @@ footer {
   font-style:oblique; 
   font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   text-align: center;
-  text-decoration-color: red;
 }
 
 h1 {
