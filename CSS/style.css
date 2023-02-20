@@ -4,8 +4,9 @@ header {
   font-style: italic;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   text-align: center;
-  text-decoration-color: red;
-  text-size-adjust: 25;
+  color: red;
+  border: 2px solid red;
+  
 
 }
 
@@ -19,6 +20,8 @@ footer {
   font-style:oblique; 
   font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   text-align: center;
+  color: blue;
+  border: 2px solid blue;
 }
 
 h1 {
